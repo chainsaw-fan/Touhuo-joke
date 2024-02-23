@@ -1,0 +1,58 @@
+@import url('https://fonts.cdnfonts.com/css/inter');
+                
+
+body, html {
+  height: 100%;
+}
+
+body {
+
+  background-image: url(https://http2.mlstatic.com/D_NQ_NP_739739-CBT73586750102_122023-O.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Inter', sans-serif;
+
+  .cabezon {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 12px 0;
+    font-family: sans-serif;
+    background-color: white;
+  }
+  
+  .cabezal {
+    display: inline-block;
+    justify-content: right;
+    margin: 0 2px;
+    font-size: 24px;
+    margin-right: 50px;
+  }
+
+  .cabecita {
+    width: 50%;
+    margin-left: 50px;
+  }
+
+  .fondote {
+    display: inline-block;
+    justify-content: center;
+    position: absolute;
+    left: 50px;
+    top: 130px;
+    width: 1190px;
+    height: 1200px;
+    opacity: 0.9;
+    z-index: -1;
+  }
+
+
+  .imgreimu {
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+                                        
+}

@@ -36,6 +36,18 @@ body {
     margin-left: 50px;
   }
 
+  .elpepe2 {
+    display: inline-block;
+    justify-content: center;
+    position: absolute;
+    left: 50px;
+    top: 1230px;
+    width: 1190px;
+    height: 500px;
+    opacity: 0.9;
+    z-index: -1;
+  }
+
   .button {
     background-color: #04AA6D;
     border: none;
@@ -45,6 +57,11 @@ body {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    border-radius: 20px;
+  }
+
+  .button:hover {
+    background: #038b5a;
   }
 
   .fondote {
@@ -54,8 +71,171 @@ body {
     left: 50px;
     top: 130px;
     width: 1190px;
-    height: 1200px;
+    height: 1040px;
     opacity: 0.9;
     z-index: -1;
   }
+
+  .titulon {
+    margin-left: 250px;
+    margin-top: 100px;
+  }
+
+  .galaxysong {
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  section {
+    width: 600px;
+    padding: 10px;
+    background: aliceblue;
+    margin-left: 500px;
+    margin-top: -70px;
+    gap: 20px;
+    border-radius: 20px;
+  }
+
+    summary {
+    background: #04AA6d;
+    color: white;
+    padding: 20px;
+    list-style: none;
+    border-radius: 20px;
+  }
+
+  summary:hover {
+    background: #038b5a;
+  }
+
+  .textogalactico {
+    padding: 10px;
+    background: white;
+    color: rgb(61, 61, 61);
+    border-radius: 20px;
+  }
+
+  .videogalactico {
+    margin-left: 25px;
+    margin-top: 10px;
+  }
+
+  .nightsong {
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+
+  .textooscuro {
+    padding: 10px;
+    background: white;
+    color: rgb(61, 61, 61);
+    border-radius: 20px;
+  }
+
+  .videooscuro {
+    margin-left: 25px;
+    margin-top: 10px;
+  }
+
+  .empresssong {
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+
+  .textoempress {
+    padding: 10px;
+    background: white;
+    color: rgb(61, 61, 61);
+    border-radius: 20px;
+  }
+
+  .videoempress {
+    margin-left: 25px;
+    margin-top: 10px;
+  }
+
+  .censong {
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+
+  .textocensored {
+    padding: 10px;
+    background: white;
+    color: rgb(61, 61, 61);
+    border-radius: 20px;
+  }
+
+  .videocensored{
+    margin-left: 25px;
+    margin-top: 10px;
+  }
+
+  .omaewasong {
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+
+  .textoomaewa {
+    padding: 10px;
+    background: white;
+    color: rgb(61, 61, 61);
+    border-radius: 20px;
+  }
+
+  .videoomaewa{
+    margin-left: 25px;
+    margin-top: 10px;
+  }
+
+  .applesong {
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+
+  .textoapple {
+    padding: 10px;
+    background: white;
+    color: rgb(61, 61, 61);
+    border-radius: 20px;
+  }
+
+  .videoapple{
+    margin-left: 25px;
+    margin-top: 10px;
+  }
+
+  .yatasong {
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+
+  .textoyata {
+    padding: 10px;
+    background: white;
+    color: rgb(61, 61, 61);
+    border-radius: 20px;
+  }
+
+  .videoyata{
+    margin-left: 25px;
+    margin-top: 10px;
+  }
+
+  .ronald {
+    margin-left: 500px;
+    margin-top: 250px;
+  }
+
+  .ronaldvideo {
+    margin-left: 350px;
+    margin-top: 50px;
+  }
+
 }
